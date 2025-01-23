@@ -35,6 +35,7 @@ const songs =[
   image:'metric-1'
 }
 ]
+// trying to implement spotify api to load Tracks ended in a failure
 
 let isPlaying = false;
 
